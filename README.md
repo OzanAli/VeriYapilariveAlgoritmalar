@@ -7,6 +7,7 @@ Ozan Ali Altundal
 
 [Patika.dev](www.patika.dev)
 
+## Part 1
 ### Soru_1
 
 [22,27,16,2,18,6] --> Insertion Sort
@@ -49,6 +50,11 @@ Worst Case: Sıranın olabilecek en kötü şekilde sıralanmış olma durumu
 
 ### Soru_4
 
+18 Sayısı sıranın ortasında olduğu için, average case kapsamına girer.
+
+
+
+## Part 2
 Step.0 --> [7,3,5,8,2,9,4,15,6]
 
 Step.1 --> [2,3,5,8,7,9,4,15,6]
